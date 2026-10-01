@@ -1,0 +1,14 @@
+.navbar {
+  text-align: center;
+}
+
+p {
+  display: inline-block;
+  margin: 7px;
+  padding: 5px;
+  
+  border-radius: 5px;
+
+  box-shadow: 0px 0px 1px black;
+  max-width: 200px;
+}
